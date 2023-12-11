@@ -1,7 +1,4 @@
-Learn and practice clean code and refactoring
-Clean code:
-
-#Clean Code
+#Clean code
 
 1-Give to variables, methods, or other attributes in the code good meaningful names. The name must demonstrate what an item represents cohesively, this is essential for a good understanding of the code.
 
