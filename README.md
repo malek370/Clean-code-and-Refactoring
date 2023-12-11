@@ -1,7 +1,6 @@
-# Clean-code-and-Refactoring
 Learn and practice clean code and refactoring
 Clean code:
-
+#Clean Code
 1-Give to variables, methods, or other attributes in the code good meaningful names. The name must demonstrate what an item represents cohesively, this is essential for a good understanding of the code.
 
 2- Create small methods. With smaller methods, implementing fewer functionalities, we increase the possibility of reusing this method in other changes and make it more cohesive. Also, methods should not receive a lot of parameters, trying not to use more than three.
